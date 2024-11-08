@@ -34,3 +34,4 @@ Renai addresses this issue by converting course material (PDFs) into chat conver
 #### 3. Get key points from documents
 
 - Renai can also be used to get key points from a documents, which can be used to enhance research process.
+- It can also be used as a quick study too for students, need the summary of text? - Renai has got you covered.
